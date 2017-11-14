@@ -1,0 +1,2 @@
+This is a sample file printing "HELLO WORLD"
+System.out.println("HELLO WORLD");
